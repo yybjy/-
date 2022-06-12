@@ -36,3 +36,4 @@ https://wwc.lanzout.com/i7M3R068pu5a
 # 搜索内容演示
 ![屏幕截图 2022-06-11 211723](https://user-images.githubusercontent.com/91821567/173212988-c434e870-3e29-43be-b62d-069bdaba75c3.png)
 # 后续看用的人有多少吧，用的多的话，就开源代码
+![bei2](https://user-images.githubusercontent.com/91821567/173213270-966a4d65-d8e6-4b78-a173-f394d1a65568.png)
